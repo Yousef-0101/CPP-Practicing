@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // words that starts with "#" is called pre-processor directive
 
 int main()
 {
